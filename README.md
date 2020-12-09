@@ -1,4 +1,4 @@
 ### Hi there 👋
 
- 💬 Ask me about C# and Angular
+ 💬 Ask me about C# or Angular
 
